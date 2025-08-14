@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:3921:22:void LL_ADC_REG_StartConversionSWStart(ADC_TypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:3989:26:uint16_t LL_ADC_REG_ReadConversionData12(const ADC_TypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h:4290:26:uint32_t LL_ADC_IsActiveFlag_EOCS(const ADC_TypeDef*)	1
+../Core/Src/pressure_sensor.cpp:15:10:uint16_t Read_Pressure_Right()	2
+../Core/Src/pressure_sensor.cpp:22:10:uint16_t Read_Pressure_Left()	2

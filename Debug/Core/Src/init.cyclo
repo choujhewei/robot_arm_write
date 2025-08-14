@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:void __NVIC_EnableIRQ(IRQn_Type)	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:void __NVIC_SetPriority(IRQn_Type, uint32_t)	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1116:22:void LL_TIM_EnableCounter(TIM_TypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:3185:22:void LL_TIM_ClearFlag_UPDATE(TIM_TypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:3460:22:void LL_TIM_EnableIT_UPDATE(TIM_TypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:410:22:void LL_USART_Enable(USART_TypeDef*)	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usart.h:2035:22:void LL_USART_EnableIT_RXNE(USART_TypeDef*)	2
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:void LL_GPIO_SetOutputPin(GPIO_TypeDef*, uint32_t)	1
+../Core/Src/init.cpp:12:6:void init()	8
